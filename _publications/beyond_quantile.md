@@ -1,5 +1,5 @@
 ---
-title: "Beyond Quantile Methods: Improved Top-K Threshold Estimation for Traditional and Learned Sparse Indexes"
+title: "Beyond Quantile Methods: Improved Top-K Threshold Estimation for Traditional and Learned Sparse Indexes (IEEE BigData 2024)"
 collection: publications
 category: conferences
 permalink: /publication/beyond_quantile

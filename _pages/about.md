@@ -334,7 +334,6 @@ My research interests span **large language models**, **reinforcement learning**
 
 * **2025.01** Tier 1 Winner of U.S. DOT Intersection Safety Challenge with a **$750k award**
 * **2024.09** <span class="award-highlight">Best Paper Award</span> at IEEE ITSC 2024
-* **2024** Graduate Research Fellowship, UCLA
 * **2021** Dean's List, UC Davis
 * **2020** Outstanding Undergraduate Researcher, UC Davis
 

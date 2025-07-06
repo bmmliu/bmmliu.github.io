@@ -62,7 +62,7 @@ redirect_from:
 <div class="cv-description">
 • Specialization: Machine Learning, Deep Learning, Computer Vision<br>
 • Thesis: "Advanced Methods for Trajectory Prediction in Urban Environments"<br>
-• GPA: 3.9/4.0
+• GPA: 3.7/4.0
 </div>
 </div>
 
@@ -72,7 +72,7 @@ redirect_from:
 <div class="cv-description">
 • <strong>Summa Cum Laude</strong> (Top 5%)<br>
 • Senior Project: YOLOv5-based Mask Detection System<br>
-• GPA: 3.8/4.0
+• GPA: 3.5/4.0
 </div>
 </div>
 </div>

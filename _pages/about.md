@@ -66,6 +66,10 @@ My research interests span **large language models**, **reinforcement learning**
 <h1 class="section-header">🔥 News</h1>
 
 <div class="news-item">
+<span class="news-date">2025.11</span>: 🎉 Our paper <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pplw1EYAAAAJ&sortby=pubdate&citation_for_view=pplw1EYAAAAJ:W7OEmFMy1HYC">Driving with Regulation: Trustworthy and Interpretable Decision-Making for Autonomous Driving with Retrieval-Augmented Reasoning</a> was accepted by <strong>AAAI 2026</strong>!
+</div>
+
+<div class="news-item">
 <span class="news-date">2025.07</span>: 🎉 4 papers were accepted for <strong>IEEE ITSC 2025</strong>! Including <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pplw1EYAAAAJ&sortby=pubdate&citation_for_view=pplw1EYAAAAJ:hqOjcs7Dif8C">MobiVerse</a> and <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pplw1EYAAAAJ&sortby=pubdate&citation_for_view=pplw1EYAAAAJ:Tyk-4Ss8FVUC">Human Mobility Modeling</a>.
 </div>
 
@@ -98,6 +102,21 @@ My research interests span **large language models**, **reinforcement learning**
 </div>
 
 <h1 class="section-header">📝 Selected Publications</h1>
+
+<div class="publication-container" style="display: flex; margin-bottom: 30px; align-items: flex-start;">
+  <div class="publication-image" style="flex: 0 0 320px; margin-right: 20px; display: flex; justify-content: center; align-items: center;">
+    <img src="/images/papers/regulation.png" alt="Driving with Regulation" style="width: 300px; height: 200px; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
+  <div class="publication-content" style="flex: 1;">
+    <h3 style="margin-top: 0; margin-bottom: 6px; color: #2c3e50; font-size: 18px;">Driving with Regulation: Trustworthy and Interpretable Decision-Making for Autonomous Driving with Retrieval-Augmented Reasoning</h3>
+    <p style="margin: 6px 0; color: #666; font-size: 14px;">Tianhui Cai*, <strong>Yifan Liu*</strong>, Zewei Zhou, Haoxuan Ma, Seth Z Zhao, Zhiwen Wu, Jiaqi Ma</p>
+    <p style="margin: 6px 0; line-height: 1.4; font-size: 14px;">An interpretable decision-making framework for autonomous vehicles that integrates a Traffic Regulation Retrieval (TRR) Agent using RAG with LLM-powered reasoning to automatically retrieve and interpret traffic rules for legal compliance and safety assessment across different regions.</p>
+    <p style="margin: 6px 0; font-size: 14px;">
+      <em>AAAI</em>, 2026 | 
+      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pplw1EYAAAAJ&sortby=pubdate&citation_for_view=pplw1EYAAAAJ:W7OEmFMy1HYC" style="color: #2196F3; text-decoration: none;">📄 Paper</a>
+    </p>
+  </div>
+</div>
 
 <div class="publication-container" style="display: flex; margin-bottom: 30px; align-items: flex-start;">
   <div class="publication-image" style="flex: 0 0 320px; margin-right: 20px; display: flex; justify-content: center; align-items: center;">
@@ -135,7 +154,7 @@ My research interests span **large language models**, **reinforcement learning**
   </div>
   <div class="publication-content" style="flex: 1;">
     <h3 style="margin-top: 0; margin-bottom: 6px; color: #2c3e50; font-size: 18px;">Socially-Aware Robot Navigation Enhanced by Bidirectional Natural Language Conversations Using Large Language Models</h3>
-    <p style="margin: 6px 0; color: #666; font-size: 14px;">Congcong Wen, <strong>Yifan Liu</strong>, Geeta Chandra Raju Bethala, Shuaihang Yuan, Hao Huang, Yu Hao, Mengyu Wang, Yu-Shen Liu, Anthony Tzes, Yi Fang</p>
+    <p style="margin: 6px 0; color: #666; font-size: 14px;">Congcong Wen*, <strong>Yifan Liu*</strong>, Geeta Chandra Raju Bethala, Shuaihang Yuan, Hao Huang, Yu Hao, Mengyu Wang, Yu-Shen Liu, Anthony Tzes, Yi Fang</p>
     <p style="margin: 6px 0; line-height: 1.4; font-size: 14px;">A novel HSAC-LLM framework that integrates deep reinforcement learning with large language models to enable robots to proactively communicate with pedestrians through natural language for collision avoidance and socially-aware navigation.</p>
     <p style="margin: 6px 0; font-size: 14px;">
       <em>IEEE IROS</em>, 2025 | 
@@ -170,21 +189,6 @@ My research interests span **large language models**, **reinforcement learning**
     <p style="margin: 6px 0; font-size: 14px;">
       <em>ACM SIGIR</em>, 2025 | 
       <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pplw1EYAAAAJ&sortby=pubdate&citation_for_view=pplw1EYAAAAJ:Se3iqnhoufwC" style="color: #2196F3; text-decoration: none;">📄 Paper</a>
-    </p>
-  </div>
-</div>
-
-<div class="publication-container" style="display: flex; margin-bottom: 30px; align-items: flex-start;">
-  <div class="publication-image" style="flex: 0 0 320px; margin-right: 20px; display: flex; justify-content: center; align-items: center;">
-    <img src="/images/papers/regulation.png" alt="Driving with Regulation" style="width: 300px; height: 200px; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  </div>
-  <div class="publication-content" style="flex: 1;">
-    <h3 style="margin-top: 0; margin-bottom: 6px; color: #2c3e50; font-size: 18px;">Driving with Regulation: Interpretable Decision-Making for Autonomous Vehicles with Retrieval-Augmented Reasoning via LLM</h3>
-    <p style="margin: 6px 0; color: #666; font-size: 14px;">Tianhui Cai, <strong>Yifan Liu</strong>, Zewei Zhou, Haoxuan Ma, Seth Z Zhao, Zhiwen Wu, Jiaqi Ma</p>
-    <p style="margin: 6px 0; line-height: 1.4; font-size: 14px;">An interpretable decision-making framework for autonomous vehicles that integrates a Traffic Regulation Retrieval (TRR) Agent using RAG with LLM-powered reasoning to automatically retrieve and interpret traffic rules for legal compliance and safety assessment across different regions.</p>
-    <p style="margin: 6px 0; font-size: 14px;">
-      <em>arXiv preprint</em>, 2024 | 
-      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pplw1EYAAAAJ&sortby=pubdate&citation_for_view=pplw1EYAAAAJ:W7OEmFMy1HYC" style="color: #2196F3; text-decoration: none;">📄 Paper</a>
     </p>
   </div>
 </div>
